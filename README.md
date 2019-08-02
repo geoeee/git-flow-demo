@@ -17,6 +17,14 @@ For Linux
 `git flow init`
 
 
+### start a feature
+
+`git flow feature start update-readme`
+
+### finish a feature
+
+`git flow feature finish update-readme`
+
 
 ### [References]
 
